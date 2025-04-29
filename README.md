@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo predecir los precios de las casas en el Condad
 - Reducción de la dimensionalidad mediante eigenvalores, eliminando variables con información redundante.
 - Elección de variables reelevantes para entrenar los modelos mediante análisis de correlación con la variable Target.
 - Ajuste de hiperparámetros para optimizar los resultados.
-- Visualización comparativa entre los valores reales y los predichos.
+- Visualización comparativa entre los valores reales y predichos.
 
 ## Dataset
 Se utilizó un dataset que incluye múltiples variables relevantes para la predicción del precio de las casas, como:
