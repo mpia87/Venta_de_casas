@@ -37,9 +37,8 @@ Se generó un gráfico comparativo entre los precios reales y los precios predic
 ![Comparación de precios reales vs. predichos](grafico_prediccion.png)
 
 ## Código
-Se puede explorar el código en GitHub: [Repositorio en GitHub](https://github.com/mpia87/venta-de-casas)
-VENTA DE CASAS.ipynb
-https://github.com/mpia87/Venta_de_casas/blob/main/VENTA%20DE%20CASAS.ipynb
+Se puede explorar el código en GitHub: https://github.com/mpia87/Venta_de_casas/blob/main/VENTA%20DE%20CASAS.ipynb
+
 ## Conclusiones
 - **Random Forest** fue el modelo con mejor desempeño.
 - El tamaño de la casa y la puntuación general dada a la unidad habitacional en base al sistema de puntuación del condado King, son variables clave para la predicción del precio.
